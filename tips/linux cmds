@@ -1,0 +1,4 @@
+#show usb devices
+lsusb
+#verbose 
+lsusb -v
